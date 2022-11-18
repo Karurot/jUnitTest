@@ -16,7 +16,7 @@ public class jUnitTestFunctions {
 		String ans=a+b;
 		System.out.println(ans);
 	}
-	public static void main() {
+	public static void main(String[] args) {
 		Scanner s = new Scanner(System.in);
 		int x = s.nextInt();
 		if (x==1) {
